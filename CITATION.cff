@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+title: SGD for Filtering
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: misc
+authors:
+  - given-names: Shahriar
+    name-particle: Talebi
+    email: talebi@seas.harvard.edu
+    affiliation: Harvard University
+    orcid: 'https://orcid.org/0000-0001-8752-2888'
+  - given-names: Amirhossein
+    name-particle: Taghvaei
+    email: amirtag@uw.edu
+    affiliation: University of Washington
+  - given-names: Mehran
+    name-particle: Mesbahi
+    email: Mesbahi@uw.edu
+    affiliation: University of Washington
+version: 1.0.0
+doi: shahriarta/sgd4filtering
+url: https://github.com/shahriarta/sgd4filtering
+note: Available at \url{https://github.com/shahriarta/sgd4filtering}
+date-released: 2023-10-19
